@@ -1,2 +1,2 @@
-# Gitand-githubdemo
+# Gitand/githubdemo
 sampledemo
